@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, meu nome é Leonardo</h1>
-<h3 align="center">Estudante de Engenharia Elétrica - Entusiasta de Data Science e Automação</h3>
+<h3 align="center">Estudante de Engenharia Elétrica, Data Science e Automação</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
